@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# pytest
+.pytest_cache/
+
+# 工具 / 编辑器
+.idea/
+.vscode/
+*.swp
